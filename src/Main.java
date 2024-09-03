@@ -40,6 +40,6 @@ public class Main {
             System.out.println("Желаете продолжить? (1. Да / 2. Нет)");
             choice = sc.nextInt();
         }
-        System.out.println("Программа завершена");
+        System.out.println("Программа завершена!");
     }
 }
