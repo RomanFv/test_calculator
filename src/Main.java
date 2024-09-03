@@ -41,5 +41,6 @@ public class Main {
             choice = sc.nextInt();
         }
         System.out.println("Программа завершена");
+        System.out.println("Удачи!");
     }
 }
